@@ -1,0 +1,6 @@
+networkx
+click
+matplotlib
+seaborn
+pandas
+numpy
